@@ -1,0 +1,2 @@
+# a python test code
+print "hello world"
